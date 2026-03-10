@@ -1,8 +1,7 @@
+package ifc.ViníciusMartins;
 /*
 Feio por VineC4rr91.
 */
-package ifc.ViníciusMartins;
-
 import java.util.Date;
 
 public class Estudante {
